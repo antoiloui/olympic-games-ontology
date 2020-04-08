@@ -1,7 +1,7 @@
 # Olympic-games-ontology
 
 ## Topic
-Design and query an ontology about Olympic Games, in OWL, developed with the editor Protégé.
+Design and query an ontology about Olympic Games, in OWL, developed with the editor Protégé. 
 
 ## Tasks
 
